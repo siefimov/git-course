@@ -50,6 +50,17 @@ PS C:\users\user\git-minin>
 якщо гілки ще немає, то ми можемо однією командою створити нову гілку 
 та відраза на неї перемкнутися
 
+13. Поєднати гілки
+git merge 
+
+14. 
+git config --global user.name "serhii yefimov"
+git config --global user.email "sergii.iefimov@gmail.com
+
+git remote add origin https://github.com/siefimov/git-course.git
+git push -u origin master
+
+
 
 
 
