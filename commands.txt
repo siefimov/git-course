@@ -61,6 +61,8 @@ git remote add origin https://github.com/siefimov/git-course.git
 git push -u origin master
 
 
+git push - запишити локальні зміни на сайт github
+git pull - запилити зміни, що відбулися на сайті, до локальної версії.
 
 
 
